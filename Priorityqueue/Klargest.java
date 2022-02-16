@@ -31,8 +31,8 @@ public class Klargest {
                    }
              }
              while(pq.size()!=0){
-                 System.out.println(pq.peek());
-                 pq.remove();
+                 System.out.println(pq.remove());
+                 
              }
 
         }
